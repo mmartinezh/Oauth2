@@ -1,0 +1,11 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.github.arocketman.controllers.YAMLConfig",
+      "name": "",
+      "type": "com.github.arocketman.controllers.YAMLConfig"
+    }
+  ],
+  "properties": []
+}
